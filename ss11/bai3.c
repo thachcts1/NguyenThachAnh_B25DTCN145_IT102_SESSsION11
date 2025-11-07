@@ -4,7 +4,7 @@ int main() {
  
     int a[] = {2, 5, 8, 12, 16, 23, 38, 56, 72, 91};
     int n = sizeof(a) / sizeof(a[0]); 
-    int x;  // Gi· tr? c?n t?m
+    int x;  // Gi√° tr? c?n t?m
     int left = 0, right = n - 1, mid;
     int found = 0;
 
