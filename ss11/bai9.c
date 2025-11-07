@@ -2,9 +2,7 @@
 
 int main() {
     int a[100];
-    int n;
-
-    
+    int n;     
     printf("Nhap so luong phan tu cua mang: ");
     scanf("%d", &n);
 
@@ -43,4 +41,5 @@ int main() {
 
     return 0;
 }
+
 
